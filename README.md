@@ -15,6 +15,9 @@
 
 #### - Creating a list of News and displaying it to the user.
 
+#### - Using an Intent for list items, to can read the full Article in the Browser.
+
+
 ## ScreenShots :
 
 ![screenshot_20170710-084749](https://user-images.githubusercontent.com/19297298/28007060-40ec3b42-6552-11e7-9312-8fa5a6ca408d.jpg)
